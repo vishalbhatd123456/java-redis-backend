@@ -11,7 +11,7 @@ public class User implements Serializable
     @Id
     public String id;
     public String name;
-    public string email;
+    public String email;
 
     public String getid(){
         return id;
